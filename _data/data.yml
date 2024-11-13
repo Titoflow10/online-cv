@@ -25,12 +25,9 @@ sidebar:
     # bitbucket:
     # twitter: '@jekyllrb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: Hoja de vida 2024 (1).pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Lenguajes
