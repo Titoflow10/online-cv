@@ -56,35 +56,40 @@ sidebar:
 career-profile:
     title: Perfil Personal
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Soy alguien que vive con el espíritu de nunca rendirse. 
+     El fútbol me enseñó a pelear cada jugada como si fuera la última, 
+     y esa misma energía la llevo a todos los aspectos de mi vida, desde el 
+     deporte hasta la programación. Me fascina el mundo de la tecnología, 
+     la oportunidad de crear cosas desde cero y  la emoción de ver cómo pequeñas  
+     flíneas de código pueden dar vida a grandes ideas. Soy curioso por naturaleza 
+     y siempre estoy buscando nuevas experiencias y  retos que me empujen a ir más allá.
+
+
+
 education:
     title: Education
     info:
       - degree: Colegio Baltasar
-        university: Universidad de España
+        university: Fundacion Universitaria de la Rioja
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          En mi formación, he explorado una amplia gama de temas, desde las matemáticas hasta la ciencia, 
+          pasando por la programación y el liderazgo. 
+          Me interesa entender el arte de manejar equipos y guiar a las personas, 
+          y he dedicado tiempo a estudiar habilidades de liderazgo que me permitan inspirar a otros. 
+          
+
             - Bullet point
             - Bullet point
+            
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          También he profundizado en la lógica y el pensamiento crítico a través de las matemáticas 
+          y he explorado los fundamentos de la programación,  lo cual me da herramientas para crear
+          y resolver problemas de manera estructurada.  Mi curiosidad por el conocimiento es constante
+          y disfruto aprender un poco de todo para mantener una visión amplia y completa.
             - Bullet point
             - Bullet point
 
