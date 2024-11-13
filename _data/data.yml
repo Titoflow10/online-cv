@@ -64,7 +64,7 @@ career-profile:
      flíneas de código pueden dar vida a grandes ideas. Soy curioso por naturaleza 
      y siempre estoy buscando nuevas experiencias y  retos que me empujen a ir más allá.
      
-Inicial: LIDERAZGO.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+Inicial: /assets/images/LIDERAZGO.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 education:
     title: Education
