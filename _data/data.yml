@@ -100,7 +100,7 @@ experiences:
         time: 2024 Present
         # company: Startup Hubs, San Francisco
         details: |
-          Tengo experiencia en el mundo de las ventas, donde he aprendido a adaptarme a cualquier situación y a vender prácticamente 
+         Tengo experiencia en el mundo de las ventas, donde he aprendido a adaptarme a cualquier situación y a vender prácticamente 
          cualquier cosa. He trabajado en mercados expandibles, identificando oportunidades para hacer crecer el negocio, 
          y también he tenido la oportunidad de administrar proyectos y recursos, lo que me ha dado una buena base en gestión.
          Ahora, me encuentro iniciando en el fascinante mundo de la programación, con el entusiasmo de aplicar todo lo que he aprendido 
@@ -121,8 +121,7 @@ experiences:
    #   - name: Angular
   #      level: 98%
 
-   #   - name: HTML5 & CSS
-        level: 95%
+   #   - name: HTML5 & CSS level: 95%
 
 #   - name: Ruby on Rails
    #     level: 85%
