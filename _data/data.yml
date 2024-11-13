@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: Hoja de vida 2024 (1).pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: assets/Hoja de vida 2024 (1).pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Lenguajes
