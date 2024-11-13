@@ -4,27 +4,26 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    # education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: JUAN JOSE CARDONA
+    tagline: ESTUDIANTE
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: mleo89273@gmail.com
+    phone: 3126903529
+    timezone: Latin/Colombia # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
+    # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin: juan jose cardona
     xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
-    gitlab:
+    github: tito 10    # telegram: # add your nickname without '@' sign
+    # gitlab: 
     bitbucket:
-    twitter: '@jekyllrb'
+    # twitter: '@jekyllrb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,10 +35,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Español
           level: Native
 
-        - idiom: French
+        - idiom: Ingles
           level: Professional
 
         - idiom: Spanish
@@ -48,17 +47,17 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Porgramacion
           link:
 
-        - item: Snowboarding
+        - item: Footbal
           link:
 
-        - item: Cooking
+        - item: Deportes
           link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil Personal
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -69,8 +68,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: Colegio Baltasar
+        university: Universidad de España
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -242,27 +241,27 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+    # title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+   # toolset:
+    #  - name: Python & Django
+     #   level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#      - name: Javascript & jQuery
+ #       level: 98%
 
-      - name: Angular
-        level: 98%
+   #   - name: Angular
+  #      level: 98%
 
-      - name: HTML5 & CSS
+   #   - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#   - name: Ruby on Rails
+   #     level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+ #     - name: Sketch & Photoshop
+  #      level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    David Lopez &copy; 2024
